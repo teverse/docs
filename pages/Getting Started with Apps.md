@@ -48,3 +48,6 @@ Once your app is running, you'll have the option to "share" your app from the bo
 Once uploaded, you can submit your app for review so anyone can run it. Selecting this checkbox will begin the process of sharing your app for public use. **Note that all apps submitted at this time are open-sourced, and your source code is not protected. Multiplayer apps will protect server-side code.**
 
 ![Uploaded App](https://github.com/teverse/docs/raw/master/assets/editApp.png)
+
+## Icons
+To add an icon to your app, you should have a 512x512 png or jpeg image. Place this in the root directory of your app and name it "icon.png" or "icon.jpg".
