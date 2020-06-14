@@ -12,6 +12,7 @@ Create a new folder on your machine, a good practise is to name this folder the 
 
 You should [Download ExampleApp.zip](https://github.com/teverse/docs/raw/master/assets/hello-world.tevapp)
 and extract the contents to your new folder. The structure of your app should now be as follows:
+
  - your-package-id *(DIRECTORY)*
     - manifest.json
     - client *(DIRECTORY)*
