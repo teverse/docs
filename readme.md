@@ -1,0 +1,1 @@
+Some none auto-generated portions of the https://teverse.com/docs site.
