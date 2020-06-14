@@ -20,19 +20,19 @@ and extract the contents to your new folder. The structure of your app should no
 
 Once your app's folder structure matches the above, you'll need to update your manifest.json file to contain the correct package ID.
 
-```json
-{
-    "schema": 1,
-    "id": "UPDATE THIS",
-    "networked": false,
-    "version": "0.0.1",
-    "permissions": {
-        "client": {
-            "construct": true
+
+    {
+        "schema": 1,
+        "id": "UPDATE THIS",
+        "networked": false,
+        "version": "0.0.1",
+        "permissions": {
+            "client": {
+                "construct": true
+            }
         }
     }
-}
-```
+
 
 ## Uploading your app
 In the teverse client, run your unpackaged app, you will be prompted to choose a directory. You must select the directory holding the manifest.json file.
