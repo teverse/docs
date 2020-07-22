@@ -8,3 +8,5 @@ end
 ```
 
 To access clients, ensure that your tevapp manifest contains the networking permission otherwise the singleton will not be accessible within your app/game.
+
+Clients can not be constructed in Teverse as they are fully managed by the engine.
